@@ -1,0 +1,2752 @@
+county,state,counts
+los angeles,california,1736
+maricopa,arizona,1274
+king,washington,1095
+san diego,california,808
+cook,illinois,781
+orange,california,651
+clark,nevada,478
+harris,texas,458
+riverside,california,457
+snohomish,washington,441
+washington,oregon,438
+clackamas,oregon,413
+san bernardino,california,409
+brevard,florida,377
+santa clara,california,375
+multnomah,oregon,361
+fort bend,texas,359
+sacramento,california,337
+suffolk,new york,325
+pierce,washington,324
+alameda,california,303
+jefferson,colorado,301
+miami-dade,florida,300
+arapahoe,colorado,298
+palm beach,florida,298
+adams,colorado,294
+pima,arizona,286
+williamson,texas,285
+dallas,texas,278
+horry,south carolina,273
+san mateo,california,271
+orange,florida,263
+hays,texas,253
+ventura,california,253
+collin,texas,237
+contra costa,california,237
+new haven,connecticut,232
+travis,texas,228
+bernalillo,new mexico,218
+sonoma,california,210
+franklin,ohio,210
+wayne,michigan,206
+middlesex,massachusetts,205
+tarrant,texas,205
+hamilton,indiana,203
+hillsborough,florida,203
+will,illinois,200
+comal,texas,195
+fresno,california,194
+yavapai,arizona,193
+fairfield,connecticut,191
+broward,florida,187
+dupage,illinois,187
+allegheny,pennsylvania,186
+san francisco,california,186
+hartford,connecticut,184
+clark,washington,183
+salt lake,utah,182
+denver,colorado,181
+cobb,georgia,180
+anne arundel,maryland,180
+bexar,texas,180
+delaware,ohio,179
+lane,oregon,172
+kern,california,171
+oakland,michigan,169
+nassau,new york,167
+spokane,washington,163
+delaware,pennsylvania,162
+worcester,massachusetts,159
+erie,new york,157
+jackson,missouri,157
+fairfax,virginia,157
+boulder,colorado,156
+el paso,colorado,156
+clermont,ohio,155
+cuyahoga,ohio,154
+mecklenburg,north carolina,154
+baltimore,maryland,151
+duval,florida,150
+fulton,georgia,150
+sarasota,florida,149
+kitsap,washington,144
+lee,florida,143
+tulsa,oklahoma,143
+sarpy,nebraska,142
+marion,indiana,140
+saint johns,florida,139
+ada,idaho,138
+hennepin,minnesota,137
+davidson,tennessee,137
+washoe,nevada,136
+wake,north carolina,136
+pinellas,florida,136
+winnebago,illinois,134
+manatee,florida,134
+stanislaus,california,132
+marion,oregon,132
+bucks,pennsylvania,132
+coconino,arizona,131
+thurston,washington,130
+yakima,washington,129
+jefferson,kentucky,129
+lake,illinois,128
+essex,massachusetts,125
+polk,florida,125
+montgomery,pennsylvania,125
+santa barbara,california,123
+mohave,arizona,123
+honolulu,hawaii,122
+dekalb,georgia,122
+pinal,arizona,121
+whatcom,washington,121
+douglas,nebraska,120
+rockingham,new hampshire,119
+middlesex,new jersey,117
+monroe,new york,115
+creek,oklahoma,114
+philadelphia,pennsylvania,114
+barnstable,massachusetts,113
+plymouth,massachusetts,112
+clay,missouri,112
+polk,oregon,111
+oklahoma,oklahoma,111
+polk,iowa,110
+westchester,new york,110
+chester,pennsylvania,110
+santa cruz,california,109
+kent,michigan,109
+johnson,kansas,108
+suffolk,massachusetts,108
+cleveland,oklahoma,108
+chesterfield,virginia,107
+hamilton,ohio,107
+san joaquin,california,105
+volusia,florida,105
+dane,wisconsin,104
+milwaukee,wisconsin,102
+montgomery,maryland,102
+providence,rhode island,101
+norfolk,massachusetts,101
+platte,missouri,101
+placer,california,100
+shelby,tennessee,100
+utah,utah,99
+pasco,florida,98
+denton,texas,98
+larimer,colorado,98
+cumberland,maine,98
+lancaster,pennsylvania,97
+bristol,massachusetts,97
+weld,colorado,97
+shasta,california,96
+san luis obispo,california,93
+monmouth,new jersey,93
+anoka,minnesota,93
+virginia beach city,virginia,92
+macomb,michigan,92
+anchorage,alaska,92
+el paso,texas,91
+jackson,oregon,91
+genesee,michigan,91
+bergen,new jersey,91
+charleston,south carolina,90
+hampden,massachusetts,90
+waukesha,wisconsin,90
+henrico,virginia,90
+gwinnett,georgia,90
+sedgwick,kansas,88
+new hanover,north carolina,87
+solano,california,86
+guilford,north carolina,86
+baltimore city,maryland,85
+greene,ohio,85
+monterey,california,85
+knox,tennessee,85
+ocean,new jersey,84
+madison,alabama,84
+lucas,ohio,84
+summit,ohio,83
+berkeley,south carolina,82
+richmond city,virginia,82
+seminole,florida,81
+wood,ohio,81
+jefferson,alabama,81
+boone,missouri,81
+dakota,minnesota,80
+hillsborough,new hampshire,80
+butler,ohio,80
+lake,indiana,79
+benton,washington,79
+greene,missouri,79
+tulare,california,79
+shelby,alabama,78
+erie,pennsylvania,78
+humboldt,california,78
+albany,new york,78
+kane,illinois,77
+chelan,washington,77
+marin,california,77
+onondaga,new york,77
+jefferson,louisiana,76
+orange,new york,76
+litchfield,connecticut,75
+washtenaw,michigan,75
+new castle,delaware,75
+douglas,colorado,73
+butte,california,72
+dutchess,new york,72
+santa fe,new mexico,72
+charlotte,florida,72
+buncombe,north carolina,72
+york,maine,71
+lexington,south carolina,71
+pulaski,arkansas,71
+queens,new york,71
+lehigh,pennsylvania,71
+greenville,south carolina,70
+berks,pennsylvania,70
+morris,new jersey,69
+broome,new york,69
+york,pennsylvania,69
+saint louis,minnesota,69
+mchenry,illinois,68
+lancaster,nebraska,68
+fairbanks north star,alaska,68
+stark,ohio,67
+camden,new jersey,67
+nueces,texas,66
+marion,florida,65
+prince william,virginia,65
+montgomery,ohio,65
+ulster,new york,64
+westmoreland,pennsylvania,64
+lincoln,oregon,63
+chittenden,vermont,63
+galveston,texas,62
+hudson,new jersey,62
+cowlitz,washington,62
+oneida,new york,61
+penobscot,maine,61
+union,new jersey,60
+saint louis,missouri,60
+yolo,california,60
+brunswick,north carolina,60
+yuma,arizona,60
+dauphin,pennsylvania,59
+montgomery,texas,59
+el dorado,california,59
+st joseph,indiana,58
+burlington,new jersey,58
+prince georges,maryland,58
+passaic,new jersey,58
+allen,indiana,58
+escambia,florida,58
+new london,connecticut,57
+dare,north carolina,57
+flathead,montana,57
+madison,illinois,56
+linn,iowa,56
+hamilton,tennessee,56
+okaloosa,florida,56
+clallam,washington,56
+gallatin,montana,55
+napa,california,55
+essex,new jersey,55
+merced,california,54
+eaton,michigan,54
+washington,minnesota,54
+lorain,ohio,54
+grant,washington,53
+alachua,florida,53
+collier,florida,53
+deschutes,oregon,53
+livingston,michigan,52
+rutherford,tennessee,51
+ingham,michigan,51
+dona ana,new mexico,51
+washington,maryland,50
+maui,hawaii,50
+bay,florida,50
+fayette,kentucky,50
+missoula,montana,50
+washington,arkansas,50
+sullivan,tennessee,50
+warren,ohio,49
+cumberland,pennsylvania,49
+middlesex,connecticut,49
+skagit,washington,49
+chatham,georgia,49
+cumberland,north carolina,49
+lake,florida,49
+washington,rhode island,48
+baldwin,alabama,48
+cabell,west virginia,48
+jefferson,missouri,47
+kent,rhode island,47
+loudoun,virginia,47
+cape may,new jersey,47
+atlantic,new jersey,46
+kalamazoo,michigan,46
+portage,ohio,46
+somerset,new jersey,46
+richland,south carolina,46
+harford,maryland,46
+nevada,california,46
+orleans,louisiana,46
+howard,maryland,45
+mendocino,california,45
+josephine,oregon,45
+androscoggin,maine,45
+alexandria city,virginia,45
+centre,pennsylvania,45
+kennebec,maine,45
+linn,oregon,44
+stafford,virginia,44
+saint tammany,louisiana,44
+lewis,washington,44
+pueblo,colorado,44
+northampton,pennsylvania,44
+brown,wisconsin,44
+tippecanoe,indiana,44
+williamson,tennessee,43
+mobile,alabama,43
+ottawa,michigan,43
+douglas,oregon,43
+sussex,delaware,43
+grafton,new hampshire,43
+merrimack,new hampshire,43
+matanuska susitna,alaska,42
+davis,utah,42
+columbia,georgia,42
+taylor,texas,42
+vigo,indiana,42
+gaston,north carolina,42
+mesa,colorado,41
+licking,ohio,41
+yamhill,oregon,41
+leon,florida,41
+mclean,illinois,41
+harrison,mississippi,41
+saint clair,illinois,41
+canyon,idaho,41
+okanogan,washington,41
+winnebago,wisconsin,41
+black hawk,iowa,40
+monroe,florida,40
+kootenai,idaho,40
+belknap,new hampshire,40
+martin,florida,40
+niagara,new york,40
+brazoria,texas,40
+clinton,michigan,40
+benton,arkansas,39
+weber,utah,39
+berkshire,massachusetts,39
+strafford,new hampshire,39
+spotsylvania,virginia,39
+scott,iowa,39
+calcasieu,louisiana,39
+rankin,mississippi,39
+east baton rouge,louisiana,39
+benton,oregon,38
+hawaii,hawaii,38
+la crosse,wisconsin,38
+medina,ohio,38
+yellowstone,montana,38
+navajo,arizona,38
+kenosha,wisconsin,38
+cochise,arizona,38
+island,washington,38
+santa rosa,florida,38
+mercer,pennsylvania,38
+columbia,wisconsin,37
+minnehaha,south dakota,37
+sangamon,illinois,37
+cherokee,georgia,37
+sumner,tennessee,37
+bell,texas,37
+indian river,florida,37
+shawnee,kansas,37
+hunterdon,new jersey,37
+schuylkill,pennsylvania,36
+jackson,michigan,36
+vanderburgh,indiana,36
+lackawanna,pennsylvania,35
+limestone,alabama,35
+lubbock,texas,35
+kent,delaware,35
+warren,kentucky,35
+botetourt,virginia,35
+hidalgo,texas,35
+salem,virginia,35
+monroe,michigan,35
+oswego,new york,35
+york,south carolina,34
+grays harbor,washington,34
+luzerne,pennsylvania,34
+howard,indiana,34
+lake,california,34
+sandoval,new mexico,34
+gloucester,new jersey,34
+washington,vermont,34
+faulkner,arkansas,34
+lincoln,south dakota,34
+hernando,florida,33
+windham,connecticut,33
+walla walla,washington,33
+frederick,maryland,33
+monroe,pennsylvania,33
+imperial,california,33
+ashtabula,ohio,33
+brazos,texas,33
+york,virginia,33
+hall,georgia,33
+nye,nevada,33
+saint lawrence,new york,33
+clark,ohio,33
+dorchester,south carolina,33
+wayne,west virginia,33
+pennington,south dakota,33
+douglas,kansas,32
+anderson,south carolina,32
+catawba,north carolina,32
+kenai peninsula,alaska,32
+chautauqua,new york,32
+trumbull,ohio,32
+cambria,pennsylvania,32
+greene,new york,32
+walworth,wisconsin,32
+roanoke,virginia,32
+tompkins,new york,32
+osceola,florida,32
+parker,texas,32
+beaver,pennsylvania,32
+tuolumne,california,32
+elkhart,indiana,32
+saratoga,new york,31
+worcester,maryland,31
+randall,texas,31
+columbiana,ohio,31
+cameron,texas,31
+ontario,new york,31
+hampshire,massachusetts,31
+richland,ohio,31
+peoria,illinois,31
+klickitat,washington,31
+carteret,north carolina,31
+roanoke city,virginia,31
+citrus,florida,31
+richmond,georgia,30
+franklin,missouri,30
+mason,washington,30
+sebastian,arkansas,30
+sussex,new jersey,30
+san juan,new mexico,30
+wyandotte,kansas,30
+cabarrus,north carolina,29
+cascade,montana,29
+racine,wisconsin,29
+siskiyou,california,29
+outagamie,wisconsin,29
+kittitas,washington,29
+mahoning,ohio,29
+hancock,maine,29
+washington,pennsylvania,29
+chesapeake city,virginia,29
+saginaw,michigan,29
+hinds,mississippi,29
+lycoming,pennsylvania,29
+la paz,arizona,29
+bonneville,idaho,28
+spartanburg,south carolina,28
+kauai,hawaii,28
+coos,oregon,28
+johnston,north carolina,28
+johnson,iowa,28
+durham,north carolina,28
+butler,pennsylvania,28
+flagler,florida,28
+cass,north dakota,28
+rockland,new york,28
+kankakee,illinois,28
+henry,georgia,27
+saint lucie,florida,27
+boone,kentucky,27
+fredericksburg city,virginia,27
+rock,wisconsin,27
+elko,nevada,27
+muscogee,georgia,27
+tolland,connecticut,27
+montgomery,tennessee,27
+lawrence,pennsylvania,27
+forsyth,georgia,27
+berkeley,west virginia,27
+cass,missouri,27
+portage,wisconsin,26
+pope,arkansas,26
+carroll,new hampshire,26
+franklin,pennsylvania,26
+inyo,california,26
+clatsop,oregon,26
+jefferson,new york,26
+muskegon,michigan,26
+berrien,michigan,26
+grand traverse,michigan,26
+jefferson,texas,26
+arlington,virginia,26
+potter,texas,26
+aroostook,maine,26
+lewis and clark,montana,26
+cecil,maryland,26
+callaway,missouri,26
+laramie,wyoming,26
+madison,kentucky,26
+kings,california,25
+coos,new hampshire,25
+tillamook,oregon,25
+saint charles,missouri,25
+lebanon,pennsylvania,25
+hampton city,virginia,25
+lake,ohio,25
+pickaway,ohio,25
+johnson,indiana,25
+rock island,illinois,25
+silver bow,montana,25
+washington,tennessee,25
+wagoner,oklahoma,25
+lapeer,michigan,25
+ross,ohio,25
+scioto,ohio,25
+chaves,new mexico,25
+madera,california,25
+olmsted,minnesota,25
+kanawha,west virginia,25
+livingston,louisiana,25
+norfolk city,virginia,25
+tooele,utah,24
+natrona,wyoming,24
+union,north carolina,24
+jefferson,washington,24
+klamath,oregon,24
+champaign,illinois,24
+alamance,north carolina,24
+comanche,oklahoma,24
+washington,new york,24
+miami,ohio,24
+carroll,maryland,24
+warren,new york,24
+cheshire,new hampshire,24
+somerset,maine,24
+burke,north carolina,24
+onslow,north carolina,24
+monongalia,west virginia,24
+sullivan,new york,23
+monroe,indiana,23
+florence,south carolina,23
+grant,new mexico,23
+allegan,michigan,23
+albany,wyoming,23
+blair,pennsylvania,23
+curry,oregon,23
+jackson,mississippi,23
+georgetown,south carolina,23
+rensselaer,new york,23
+pottawattamie,iowa,23
+canadian,oklahoma,23
+newport,rhode island,23
+rowan,north carolina,23
+san benito,california,23
+saint croix,wisconsin,23
+sheboygan,wisconsin,23
+bennington,vermont,23
+plumas,california,23
+wood,west virginia,23
+maury,tennessee,23
+grant,indiana,22
+story,iowa,22
+desoto,mississippi,22
+gila,arizona,22
+albemarle,virginia,22
+frederick,virginia,22
+bonner,idaho,22
+fairfield,ohio,22
+wichita,texas,22
+chambers,texas,22
+lawrence,ohio,22
+gregg,texas,22
+mclennan,texas,22
+henderson,north carolina,22
+crawford,pennsylvania,22
+warren,new jersey,22
+twin falls,idaho,22
+miami,indiana,22
+clark,indiana,22
+johnson,texas,22
+hardin,kentucky,22
+ellis,texas,21
+umatilla,oregon,21
+davidson,north carolina,21
+porter,indiana,21
+sutter,california,21
+pickens,south carolina,21
+montgomery,alabama,21
+cattaraugus,new york,21
+tom green,texas,21
+grayson,texas,21
+delaware,indiana,21
+bossier,louisiana,21
+butler,kansas,21
+lincoln,nebraska,21
+ector,texas,21
+carver,minnesota,21
+jasper,missouri,21
+woodbury,iowa,21
+scott,minnesota,21
+macon,illinois,20
+erie,ohio,20
+cape girardeau,missouri,20
+fond du lac,wisconsin,20
+iredell,north carolina,20
+floyd,georgia,20
+lassen,california,20
+phelps,missouri,20
+franklin,massachusetts,20
+sweetwater,wyoming,20
+dekalb,illinois,20
+lafayette,louisiana,20
+mono,california,20
+sevier,tennessee,20
+kenton,kentucky,20
+blount,tennessee,20
+cumberland,new jersey,20
+saint clair,michigan,20
+fairfax city,virginia,20
+fremont,colorado,20
+kendall,illinois,20
+craven,north carolina,20
+washington,virginia,20
+knox,illinois,20
+manassas city,virginia,20
+manassas park city,virginia,20
+luna,new mexico,19
+charles,maryland,19
+wright,minnesota,19
+clarke,georgia,19
+taos,new mexico,19
+rutland,vermont,19
+lynchburg city,virginia,19
+madison,tennessee,19
+douglas,georgia,19
+ramsey,minnesota,19
+forsyth,north carolina,19
+crow wing,minnesota,19
+tehama,california,19
+charlottesville city,virginia,19
+highlands,florida,19
+caddo,louisiana,19
+lincoln,washington,19
+ravalli,montana,19
+coffee,tennessee,19
+smith,texas,19
+jackson,illinois,19
+raleigh,west virginia,19
+fayette,pennsylvania,19
+calhoun,michigan,18
+windsor,vermont,18
+livingston,new york,18
+wayne,pennsylvania,18
+edgecombe,north carolina,18
+walton,georgia,18
+fayette,west virginia,18
+wayne,ohio,18
+floyd,indiana,18
+calaveras,california,18
+calhoun,alabama,18
+windham,vermont,18
+orange,north carolina,18
+aiken,south carolina,18
+houston,georgia,18
+indiana,pennsylvania,18
+schenectady,new york,18
+franklin,north carolina,18
+newport news city,virginia,18
+stevens,washington,18
+daviess,kentucky,18
+manitowoc,wisconsin,18
+bowie,texas,18
+cayuga,new york,18
+columbia,new york,18
+nash,north carolina,18
+carter,tennessee,18
+carbon,pennsylvania,18
+leavenworth,kansas,17
+bastrop,texas,17
+wasco,oregon,17
+white,indiana,17
+graham,arizona,17
+ohio,west virginia,17
+clay,florida,17
+knox,maine,17
+washington,utah,17
+huron,ohio,17
+le flore,oklahoma,17
+putnam,new york,17
+eagle,colorado,17
+apache,arizona,17
+preble,ohio,17
+adams,pennsylvania,17
+columbia,oregon,17
+ward,north dakota,17
+winchester city,virginia,17
+henry,missouri,17
+lenawee,michigan,17
+rogers,oklahoma,17
+williamsburg city,virginia,17
+herkimer,new york,17
+otero,new mexico,17
+ouachita,louisiana,17
+james city,virginia,17
+waldo,maine,17
+dubuque,iowa,17
+clinton,new york,16
+lake,oregon,16
+calloway,kentucky,16
+allen,ohio,16
+rockdale,georgia,16
+anderson,tennessee,16
+park,colorado,16
+sumter,south carolina,16
+clinton,ohio,16
+tuscaloosa,alabama,16
+bedford,tennessee,16
+dodge,wisconsin,16
+curry,new mexico,16
+ozaukee,wisconsin,16
+oxford,maine,16
+muskingum,ohio,16
+la plata,colorado,16
+franklin,washington,16
+yuba,california,16
+lee,mississippi,16
+marquette,michigan,16
+grundy,illinois,16
+lafourche,louisiana,16
+forrest,mississippi,16
+pender,north carolina,16
+otsego,new york,16
+allegany,maryland,16
+genesee,new york,16
+pike,pennsylvania,16
+mccracken,kentucky,16
+northumberland,pennsylvania,16
+rapides,louisiana,16
+wayne,new york,16
+pitt,north carolina,16
+douglas,nevada,16
+saint francois,missouri,16
+otter tail,minnesota,15
+fayette,georgia,15
+amherst,virginia,15
+chemung,new york,15
+lee,alabama,15
+sagadahoc,maine,15
+harrison,west virginia,15
+hancock,indiana,15
+warrick,indiana,15
+iron,utah,15
+fulton,illinois,15
+johnson,missouri,15
+eau claire,wisconsin,15
+columbia,pennsylvania,15
+somerset,pennsylvania,15
+van buren,michigan,15
+wilkes,north carolina,15
+la salle,illinois,15
+douglas,washington,15
+baxter,arkansas,15
+henderson,texas,15
+door,wisconsin,15
+bibb,georgia,15
+teller,colorado,15
+santa cruz,arizona,15
+tioga,new york,15
+camden,missouri,15
+saint joseph,michigan,15
+beltrami,minnesota,15
+sauk,wisconsin,15
+wood,wisconsin,15
+bates,missouri,15
+socorro,new mexico,15
+glenn,california,15
+watauga,north carolina,15
+boone,indiana,15
+madison,indiana,15
+boyd,kentucky,15
+lincoln,wisconsin,15
+clearfield,pennsylvania,15
+dallas,iowa,15
+knox,indiana,15
+taney,missouri,15
+danville city,virginia,15
+portsmouth city,virginia,15
+tuscola,michigan,14
+midland,texas,14
+cass,indiana,14
+broomfield,colorado,14
+defiance,ohio,14
+new york,new york,14
+franklin,new york,14
+smyth,virginia,14
+lea,new mexico,14
+whiteside,illinois,14
+coryell,texas,14
+garfield,colorado,14
+shiawassee,michigan,14
+sherburne,minnesota,14
+wicomico,maryland,14
+marshall,alabama,14
+armstrong,pennsylvania,14
+pierce,wisconsin,14
+randolph,north carolina,14
+clayton,georgia,14
+lancaster,south carolina,14
+idaho,idaho,14
+goodhue,minnesota,14
+wayne,indiana,14
+yancey,north carolina,14
+athens,ohio,14
+saline,kansas,14
+reno,kansas,14
+grand,utah,14
+mercer,new jersey,14
+allegany,new york,14
+montgomery,virginia,14
+comanche,texas,14
+lowndes,georgia,14
+kaufman,texas,14
+chisago,minnesota,14
+pike,kentucky,14
+rio arriba,new mexico,14
+whitman,washington,14
+harrison,indiana,13
+la porte,indiana,13
+juneau,alaska,13
+houston,alabama,13
+hill,montana,13
+greene,tennessee,13
+jefferson,oregon,13
+johnson,arkansas,13
+rowan,kentucky,13
+sanilac,michigan,13
+kosciusko,indiana,13
+lamoille,vermont,13
+cullman,alabama,13
+montgomery,new york,13
+madison,new york,13
+chaffee,colorado,13
+lyon,nevada,13
+del norte,california,13
+delta,michigan,13
+dent,missouri,13
+cass,michigan,13
+rice,minnesota,13
+washington,maine,13
+etowah,alabama,13
+carroll,georgia,13
+calvert,maryland,13
+waushara,wisconsin,13
+erath,texas,13
+emmet,michigan,13
+marshall,indiana,13
+wilson,north carolina,13
+burnet,texas,13
+vermilion,illinois,13
+crawford,arkansas,13
+marion,west virginia,13
+marion,illinois,13
+alamosa,colorado,13
+crook,oregon,13
+coweta,georgia,13
+cleveland,north carolina,13
+marathon,wisconsin,13
+union,arkansas,13
+craighead,arkansas,12
+washington,ohio,12
+harrisonburg city,virginia,12
+putnam,west virginia,12
+washington,wisconsin,12
+clinton,indiana,12
+monroe,wisconsin,12
+union,pennsylvania,12
+lonoke,arkansas,12
+dickinson,michigan,12
+carter,oklahoma,12
+christian,missouri,12
+hamblen,tennessee,12
+cass,minnesota,12
+van zandt,texas,12
+harnett,north carolina,12
+venango,pennsylvania,12
+warren,virginia,12
+burleigh,north dakota,12
+macoupin,illinois,12
+mercer,west virginia,12
+hancock,ohio,12
+christian,kentucky,12
+polk,missouri,12
+green lake,wisconsin,12
+belmont,ohio,12
+muscatine,iowa,12
+geauga,ohio,12
+paulding,georgia,12
+nez perce,idaho,12
+liberty,georgia,12
+hunt,texas,12
+baker,oregon,12
+newton,georgia,12
+saline,arkansas,12
+san juan,washington,12
+falls church city,virginia,12
+white,arkansas,12
+lincoln,montana,12
+morgan,indiana,12
+addison,vermont,12
+emery,utah,12
+yankton,south dakota,12
+jefferson,wisconsin,12
+bay,michigan,12
+ascension,louisiana,11
+colusa,california,11
+okeechobee,florida,11
+guadalupe,texas,11
+antrim,michigan,11
+jefferson,iowa,11
+wise,virginia,11
+mckinley,new mexico,11
+isabella,michigan,11
+itasca,minnesota,11
+mecosta,michigan,11
+barrow,georgia,11
+clarion,pennsylvania,11
+orange,texas,11
+ionia,michigan,11
+salem,new jersey,11
+montrose,colorado,11
+noble,indiana,11
+hanover,virginia,11
+wayne,north carolina,11
+bryan,oklahoma,11
+webb,texas,11
+scott,kentucky,11
+campbell,wyoming,11
+jefferson,west virginia,11
+pittsylvania,virginia,11
+bradford,pennsylvania,11
+muskogee,oklahoma,11
+nacogdoches,texas,11
+nassau,florida,11
+whitley,indiana,11
+modoc,california,11
+bingham,idaho,11
+newton,missouri,11
+seneca,ohio,11
+catoosa,georgia,11
+cerro gordo,iowa,11
+moore,north carolina,11
+wapello,iowa,11
+bedford,virginia,11
+union,oregon,11
+kay,oklahoma,11
+cortland,new york,11
+eddy,new mexico,11
+mariposa,california,11
+essex,new york,11
+macon,north carolina,11
+greene,pennsylvania,11
+stearns,minnesota,11
+queen annes,maryland,11
+levy,florida,11
+laurens,georgia,11
+fayette,indiana,11
+tangipahoa,louisiana,11
+franklin,maine,11
+steuben,indiana,11
+grant,wisconsin,11
+delaware,new york,11
+steuben,new york,11
+duplin,north carolina,11
+dunn,wisconsin,11
+greenup,kentucky,11
+putnam,florida,11
+liberty,texas,11
+tazewell,illinois,11
+jefferson,tennessee,10
+fauquier,virginia,10
+nelson,kentucky,10
+hill,texas,10
+branch,michigan,10
+brown,texas,10
+lincoln,missouri,10
+susquehanna,pennsylvania,10
+lincoln,north carolina,10
+henry,illinois,10
+bulloch,georgia,10
+montcalm,michigan,10
+livingston,kentucky,10
+douglas,wisconsin,10
+blue earth,minnesota,10
+summit,utah,10
+hood river,oregon,10
+san miguel,new mexico,10
+pacific,washington,10
+adams,illinois,10
+adams,wisconsin,10
+fremont,wyoming,10
+aitkin,minnesota,10
+jackson,ohio,10
+ottawa,ohio,10
+lee,illinois,10
+iosco,michigan,10
+wyoming,pennsylvania,10
+stephenson,illinois,10
+asotin,washington,10
+augusta,virginia,10
+sawyer,wisconsin,10
+oceana,michigan,10
+humboldt,nevada,10
+bannock,idaho,10
+barton,kansas,10
+bartow,georgia,10
+payne,oklahoma,10
+wilson,tennessee,10
+bedford,pennsylvania,10
+summit,colorado,10
+seneca,new york,10
+gibson,indiana,10
+newaygo,michigan,10
+washington,oklahoma,10
+webster,iowa,10
+churchill,nevada,10
+jones,mississippi,10
+cheatham,tennessee,10
+pottawatomie,oklahoma,10
+uintah,utah,10
+polk,texas,10
+la salle,texas,10
+cole,missouri,10
+tuscarawas,ohio,10
+mason,west virginia,10
+russell,kentucky,10
+shelby,ohio,10
+midland,michigan,10
+pontotoc,oklahoma,10
+christian,illinois,10
+delta,colorado,10
+routt,colorado,10
+vernon,missouri,9
+gibson,tennessee,9
+hopewell city,virginia,9
+hopkins,kentucky,9
+manistee,michigan,9
+leelanau,michigan,9
+mcpherson,kansas,9
+franklin,illinois,9
+polk,wisconsin,9
+fleming,kentucky,9
+bethel,alaska,9
+wabash,indiana,9
+madison,north carolina,9
+franklin,tennessee,9
+nicollet,minnesota,9
+walker,alabama,9
+suffolk city,virginia,9
+grand forks,north dakota,9
+barron,wisconsin,9
+jackson,west virginia,9
+marshall,kentucky,9
+jackson,georgia,9
+shenandoah,virginia,9
+page,virginia,9
+adams,ohio,9
+columbia,florida,9
+marshall,west virginia,9
+colquitt,georgia,9
+laurens,south carolina,9
+val verde,texas,9
+crawford,ohio,9
+orange,vermont,9
+rutherford,north carolina,9
+ashe,north carolina,9
+acadia,louisiana,9
+auglaize,ohio,9
+latah,idaho,9
+huntington,indiana,9
+oconee,south carolina,9
+garvin,oklahoma,9
+wise,texas,9
+williamson,illinois,9
+lake,montana,9
+elmore,alabama,9
+tipton,tennessee,9
+roosevelt,montana,9
+lamar,texas,9
+hawkins,tennessee,9
+dyer,tennessee,9
+catron,new mexico,9
+talbot,maryland,9
+tioga,pennsylvania,9
+cherokee,south carolina,9
+whitfield,georgia,9
+caledonia,vermont,9
+eastland,texas,9
+hendricks,indiana,9
+jessamine,kentucky,9
+rockingham,north carolina,9
+cass,texas,9
+morgan,illinois,9
+webster,louisiana,9
+dawson,georgia,9
+fannin,texas,9
+carroll,arkansas,9
+darlington,south carolina,9
+carlton,minnesota,9
+fulton,ohio,9
+lincoln,maine,9
+box elder,utah,9
+boone,arkansas,9
+sumter,florida,9
+de kalb,alabama,9
+highland,ohio,9
+dickson,tennessee,9
+carroll,virginia,9
+osage,kansas,8
+orleans,new york,8
+randolph,arkansas,8
+jackson,wisconsin,8
+pike,ohio,8
+marshall,tennessee,8
+montezuma,colorado,8
+otsego,michigan,8
+robeson,north carolina,8
+lee,georgia,8
+ottawa,oklahoma,8
+mason,illinois,8
+lyon,kansas,8
+livingston,illinois,8
+jackson,north carolina,8
+orangeburg,south carolina,8
+madison,mississippi,8
+lee,iowa,8
+las animas,colorado,8
+madison,iowa,8
+jefferson,ohio,8
+saint landry,louisiana,8
+logan,ohio,8
+nicholas,west virginia,8
+miami,kansas,8
+payette,idaho,8
+pettis,missouri,8
+knox,ohio,8
+lincoln,new mexico,8
+maries,missouri,8
+jim wells,texas,8
+lamar,mississippi,8
+marinette,wisconsin,8
+mcdowell,north carolina,8
+lauderdale,alabama,8
+mcdonough,illinois,8
+oktibbeha,mississippi,8
+laurel,kentucky,8
+oldham,kentucky,8
+mitchell,north carolina,8
+ketchikan gateway,alaska,8
+lawrence,kentucky,8
+lauderdale,mississippi,8
+washington,iowa,8
+blaine,idaho,8
+williams,north dakota,8
+starke,indiana,8
+benton,missouri,8
+benton,iowa,8
+harris,georgia,8
+stephens,oklahoma,8
+greenwood,south carolina,8
+coles,illinois,8
+beaufort,south carolina,8
+beaufort,north carolina,8
+barry,michigan,8
+henderson,kentucky,8
+scott,missouri,8
+union,louisiana,8
+bandera,texas,8
+cowley,kansas,8
+crawford,missouri,8
+big horn,montana,8
+whitley,kentucky,8
+franklin,virginia,8
+glacier,montana,8
+caldwell,north carolina,8
+cache,utah,8
+bullitt,kentucky,8
+charlevoix,michigan,8
+buffalo,nebraska,8
+webster,missouri,8
+bristol city,virginia,8
+gratiot,michigan,8
+brewster,texas,8
+chippewa,wisconsin,8
+boyle,kentucky,8
+walton,florida,8
+hancock,west virginia,8
+somerset,maryland,8
+gordon,georgia,8
+boone,illinois,8
+clay,indiana,8
+schuyler,new york,8
+garfield,oklahoma,8
+yates,new york,8
+fayette,ohio,8
+ferry,washington,8
+avoyelles,louisiana,8
+audrain,missouri,8
+sandusky,ohio,8
+sullivan,new hampshire,8
+texas,missouri,8
+sanders,montana,8
+terrebonne,louisiana,8
+isanti,minnesota,8
+davie,north carolina,8
+lowndes,mississippi,7
+laclede,missouri,7
+dickinson,iowa,7
+uinta,wyoming,7
+warren,iowa,7
+lafayette,missouri,7
+warren,mississippi,7
+rockwall,texas,7
+lumpkin,georgia,7
+dewey,south dakota,7
+lake,minnesota,7
+graves,kentucky,7
+polk,minnesota,7
+randolph,illinois,7
+washington,idaho,7
+carson city,nevada,7
+sierra,new mexico,7
+carter,kentucky,7
+cass,illinois,7
+moniteau,missouri,7
+cassia,idaho,7
+effingham,georgia,7
+logan,illinois,7
+plaquemines,louisiana,7
+clark,wisconsin,7
+koochiching,minnesota,7
+washburn,wisconsin,7
+champaign,ohio,7
+fannin,georgia,7
+lincoln,louisiana,7
+warren,pennsylvania,7
+mille lacs,minnesota,7
+chatham,north carolina,7
+des moines,iowa,7
+mclean,north dakota,7
+spalding,georgia,7
+gogebic,michigan,7
+robertson,tennessee,7
+mason,michigan,7
+trinity,california,7
+colfax,new mexico,7
+custer,idaho,7
+lawrence,indiana,7
+preston,west virginia,7
+franklin,kentucky,7
+putnam,indiana,7
+fulton,new york,7
+cook,minnesota,7
+fulton,indiana,7
+malheur,oregon,7
+culpeper,virginia,7
+stoddard,missouri,7
+marion,ohio,7
+lee,north carolina,7
+trempealeau,wisconsin,7
+leon,texas,7
+letcher,kentucky,7
+davison,south dakota,7
+finney,kansas,7
+tyler,texas,7
+clinton,iowa,7
+stanly,north carolina,7
+mckean,pennsylvania,7
+de soto,florida,7
+valley,idaho,7
+riley,kansas,7
+steele,minnesota,7
+madison,idaho,7
+cocke,tennessee,7
+dallas,missouri,7
+staunton city,virginia,7
+gem,idaho,7
+mcdonald,missouri,7
+gasconade,missouri,7
+kleberg,texas,7
+cumberland,tennessee,7
+navarro,texas,7
+oneida,wisconsin,7
+bradley,tennessee,7
+park,montana,7
+jasper,indiana,7
+keith,nebraska,7
+jasper,iowa,7
+caroline,maryland,7
+woodford,illinois,7
+okmulgee,oklahoma,7
+san patricio,texas,7
+hutchinson,texas,7
+harrison,texas,7
+anderson,texas,7
+saint marys,maryland,7
+independence,arkansas,7
+sevier,utah,7
+neosho,kansas,7
+sequoyah,oklahoma,7
+howell,missouri,7
+kanabec,minnesota,7
+saint mary,louisiana,7
+perry,kentucky,7
+blount,alabama,7
+huerfano,colorado,7
+juneau,wisconsin,7
+beckham,oklahoma,7
+williams,ohio,7
+ashland,ohio,7
+allen,kentucky,7
+hampshire,west virginia,7
+wayne,missouri,7
+pine,minnesota,7
+henry,indiana,7
+monroe,tennessee,7
+jersey,illinois,7
+gunnison,colorado,7
+scotts bluff,nebraska,7
+montgomery,kansas,7
+hillsdale,michigan,7
+shelby,kentucky,7
+park,wyoming,7
+adams,mississippi,7
+bell,kentucky,7
+bayfield,wisconsin,7
+shelby,illinois,7
+morgan,missouri,7
+saline,missouri,7
+alexander,north carolina,7
+harvey,kansas,7
+jefferson,pennsylvania,7
+morgan,alabama,7
+shawano,wisconsin,7
+seminole,oklahoma,7
+pulaski,virginia,6
+madison,ohio,6
+woodward,oklahoma,6
+wood,texas,6
+currituck,north carolina,6
+ogle,illinois,6
+crawford,iowa,6
+carroll,iowa,6
+wright,missouri,6
+transylvania,north carolina,6
+accomack,virginia,6
+dukes,massachusetts,6
+duchesne,utah,6
+adams,indiana,6
+randolph,west virginia,6
+tazewell,virginia,6
+los alamos,new mexico,6
+district of columbia,"washington, d.c.",6
+loudon,tennessee,6
+adams,washington,6
+alger,michigan,6
+yazoo,mississippi,6
+osceola,michigan,6
+palo pinto,texas,6
+thomas,kansas,6
+yadkin,north carolina,6
+lyon,kentucky,6
+todd,south dakota,6
+rabun,georgia,6
+winston,alabama,6
+angelina,texas,6
+wyoming,new york,6
+panola,texas,6
+marion,mississippi,6
+nome,alaska,6
+winona,minnesota,6
+morehouse,louisiana,6
+walker,texas,6
+mercer,kentucky,6
+bourbon,kentucky,6
+choctaw,oklahoma,6
+polk,tennessee,6
+bradford,florida,6
+ware,georgia,6
+morton,north dakota,6
+morrison,minnesota,6
+warren,missouri,6
+cheboygan,michigan,6
+brown,nebraska,6
+pontotoc,mississippi,6
+brown,ohio,6
+bureau,illinois,6
+platte,nebraska,6
+washington,georgia,6
+pike,mississippi,6
+waupaca,wisconsin,6
+camden,georgia,6
+elmore,idaho,6
+campbell,kentucky,6
+pittsburg,oklahoma,6
+carbon,utah,6
+white,georgia,6
+clark,kentucky,6
+pasquotank,north carolina,6
+pratt,kansas,6
+cooke,texas,6
+columbus,north carolina,6
+pawnee,oklahoma,6
+presque isle,michigan,6
+pearl river,mississippi,6
+beauregard,louisiana,6
+coleman,texas,6
+matagorda,texas,6
+valdez cordova,alaska,6
+becker,minnesota,6
+valencia,new mexico,6
+coffee,alabama,6
+bosque,texas,6
+mcculloch,texas,6
+benewah,idaho,6
+williamsburg,south carolina,6
+benzie,michigan,6
+new kent,virginia,6
+clinton,pennsylvania,6
+perry,missouri,6
+vilas,wisconsin,6
+clay,iowa,6
+medina,texas,6
+white pine,nevada,6
+talladega,alabama,6
+owyhee,idaho,6
+kent,maryland,6
+ripley,indiana,6
+franklin,vermont,6
+stone,missouri,6
+kershaw,south carolina,6
+halifax,north carolina,6
+hall,nebraska,6
+hamilton,iowa,6
+lewis,idaho,6
+guernsey,ohio,6
+hancock,mississippi,6
+haralson,georgia,6
+hardin,texas,6
+saint charles,louisiana,6
+harper,kansas,6
+sumner,kansas,6
+runnels,texas,6
+shelby,texas,6
+johnson,kentucky,6
+rockingham,virginia,6
+langlade,wisconsin,6
+stark,north dakota,6
+gallatin,illinois,6
+gloucester,virginia,6
+roberts,south dakota,6
+grady,oklahoma,6
+grand,colorado,6
+freestone,texas,6
+gray,texas,6
+roscommon,michigan,6
+green,wisconsin,6
+greene,illinois,6
+stokes,north carolina,6
+stone,arkansas,6
+saint clair,alabama,6
+garrard,kentucky,6
+hopkins,texas,6
+jackson,alabama,6
+saline,illinois,6
+iron,missouri,6
+iberia,louisiana,6
+jefferson,illinois,6
+wythe,virginia,5
+moffat,colorado,5
+calumet,wisconsin,5
+chenango,new york,5
+montague,texas,5
+polk,arkansas,5
+poinsett,arkansas,5
+iron,michigan,5
+greenbrier,west virginia,5
+amador,california,5
+kodiak island,alaska,5
+pamlico,north carolina,5
+carbon,wyoming,5
+knox,kentucky,5
+wyandot,ohio,5
+cherokee,alabama,5
+oregon,missouri,5
+huron,michigan,5
+pitkin,colorado,5
+washington,missouri,5
+grenada,mississippi,5
+sheridan,wyoming,5
+barren,kentucky,5
+cherokee,oklahoma,5
+chester,south carolina,5
+grant,oregon,5
+codington,south dakota,5
+jackson,florida,5
+yukon koyukuk,alaska,5
+van wert,ohio,5
+gillespie,texas,5
+mcminn,tennessee,5
+cleburne,arkansas,5
+vermilion,louisiana,5
+victoria,texas,5
+adair,missouri,5
+isle of wight,virginia,5
+wakulla,florida,5
+gooding,idaho,5
+meigs,ohio,5
+somervell,texas,5
+menard,illinois,5
+clark,illinois,5
+iroquois,illinois,5
+yell,arkansas,5
+cibola,new mexico,5
+otero,colorado,5
+grant,kentucky,5
+snyder,pennsylvania,5
+calhoun,iowa,5
+caddo,oklahoma,5
+screven,georgia,5
+harlan,kentucky,5
+seward,nebraska,5
+holmes,florida,5
+boone,iowa,5
+bond,illinois,5
+perry,pennsylvania,5
+perry,ohio,5
+kalkaska,michigan,5
+hardin,tennessee,5
+hoke,north carolina,5
+saguache,colorado,5
+perry,arkansas,5
+newton,arkansas,5
+ontonagon,michigan,5
+ogemaw,michigan,5
+harney,oregon,5
+scotland,north carolina,5
+hickory,missouri,5
+henry,tennessee,5
+pend oreille,washington,5
+hart,georgia,5
+obrien,iowa,5
+hempstead,arkansas,5
+northumberland,virginia,5
+bartholomew,indiana,5
+nantucket,massachusetts,5
+schoharie,new york,5
+brantley,georgia,5
+murray,georgia,5
+butte,idaho,5
+montgomery,north carolina,5
+kimble,texas,5
+shelby,indiana,5
+kewaunee,wisconsin,5
+waynesboro city,virginia,5
+hubbard,minnesota,5
+buchanan,missouri,5
+hale,alabama,5
+howard,texas,5
+saunders,nebraska,5
+hood,texas,5
+brown,indiana,5
+hamilton,new york,5
+morgan,west virginia,5
+mccurtain,oklahoma,5
+hamilton,texas,5
+phillips,montana,5
+hancock,illinois,5
+kendall,texas,5
+moultrie,illinois,5
+avery,north carolina,5
+mower,minnesota,5
+minidoka,idaho,5
+jackson,indiana,5
+richland,illinois,5
+presidio,texas,5
+taylor,florida,5
+gage,nebraska,5
+gadsden,florida,5
+lawrence,missouri,5
+prince george,virginia,5
+colleton,south carolina,5
+dunklin,missouri,5
+franklin,georgia,5
+crawford,michigan,5
+crawford,kansas,5
+marion,alabama,5
+freeborn,minnesota,5
+uvalde,texas,5
+decatur,indiana,5
+limestone,texas,5
+lewis,new york,5
+ritchie,west virginia,5
+delaware,oklahoma,5
+union,georgia,5
+fayette,texas,5
+marion,missouri,5
+marion,iowa,5
+fillmore,nebraska,5
+dougherty,georgia,5
+dearborn,indiana,5
+red river,texas,5
+latimer,oklahoma,5
+garza,texas,5
+franklin,mississippi,5
+fayette,illinois,5
+coffee,georgia,5
+surry,north carolina,5
+de kalb,indiana,5
+effingham,illinois,5
+louisa,virginia,5
+randolph,indiana,5
+roane,tennessee,5
+lauderdale,tennessee,5
+lincoln,kentucky,5
+rains,texas,5
+franklin,kansas,5
+stephens,texas,5
+putnam,tennessee,5
+lawrence,tennessee,5
+essex,vermont,5
+ford,illinois,4
+sabine,louisiana,4
+sharp,arkansas,4
+ford,kansas,4
+archuleta,colorado,4
+daviess,indiana,4
+dawson,nebraska,4
+madison,georgia,4
+jefferson,idaho,4
+muhlenberg,kentucky,4
+braxton,west virginia,4
+gates,north carolina,4
+forest,wisconsin,4
+darke,ohio,4
+reeves,texas,4
+moody,south dakota,4
+ripley,missouri,4
+andrew,missouri,4
+panola,mississippi,4
+hale,texas,4
+morgan,colorado,4
+morgan,georgia,4
+trinity,texas,4
+jeff davis,texas,4
+hardee,florida,4
+quay,new mexico,4
+brooke,west virginia,4
+real,texas,4
+franklin,florida,4
+towns,georgia,4
+bristol,rhode island,4
+fountain,indiana,4
+lincoln,nevada,4
+white,tennessee,4
+blaine,montana,4
+natchitoches,louisiana,4
+autauga,alabama,4
+terry,texas,4
+searcy,arkansas,4
+douglas,illinois,4
+peach,georgia,4
+woodford,kentucky,4
+beadle,south dakota,4
+lincoln,colorado,4
+surry,virginia,4
+jo daviess,illinois,4
+jefferson,montana,4
+taylor,kentucky,4
+seward,kansas,4
+dickinson,kansas,4
+jerome,idaho,4
+barnwell,south carolina,4
+winneshiek,iowa,4
+jefferson davis,louisiana,4
+barbour,alabama,4
+randolph,missouri,4
+oconee,georgia,4
+dillon,south carolina,4
+schuyler,illinois,4
+randolph,alabama,4
+atchison,missouri,4
+beaverhead,montana,4
+johnson,tennessee,4
+kane,utah,4
+dubois,indiana,4
+richmond,north carolina,4
+nelson,virginia,4
+kandiyohi,minnesota,4
+hardin,ohio,4
+blanco,texas,4
+saint bernard,louisiana,4
+perry,indiana,4
+bladen,north carolina,4
+juab,utah,4
+summers,west virginia,4
+ashland,wisconsin,4
+douglas,minnesota,4
+thomas,georgia,4
+jones,north carolina,4
+jones,iowa,4
+assumption,louisiana,4
+atascosa,texas,4
+harrison,iowa,4
+harrison,ohio,4
+pike,illinois,4
+powhatan,virginia,4
+jackson,louisiana,4
+union,ohio,4
+claiborne,tennessee,4
+grand isle,vermont,4
+linn,missouri,4
+marshall,oklahoma,4
+lafayette,mississippi,4
+upshur,texas,4
+roosevelt,new mexico,4
+labette,kansas,4
+alcorn,mississippi,4
+cherokee,texas,4
+cherokee,north carolina,4
+colorado,texas,4
+marshall,iowa,4
+lawrence,south dakota,4
+marshall,illinois,4
+grayson,kentucky,4
+milam,texas,4
+polk,georgia,4
+smith,tennessee,4
+miller,arkansas,4
+ottawa,kansas,4
+miller,missouri,4
+clare,michigan,4
+tama,iowa,4
+warren,tennessee,4
+clinton,illinois,4
+geary,kansas,4
+mcclain,oklahoma,4
+mcduffie,georgia,4
+maverick,texas,4
+powell,kentucky,4
+mcintosh,oklahoma,4
+escambia,alabama,4
+van buren,arkansas,4
+lancaster,virginia,4
+lampasas,texas,4
+mcleod,minnesota,4
+grainger,tennessee,4
+renville,minnesota,4
+colbert,alabama,4
+ellis,kansas,4
+gallia,ohio,4
+spencer,indiana,4
+glynn,georgia,4
+mason,kentucky,4
+adair,oklahoma,4
+walker,georgia,4
+colonial heights city,virginia,4
+san juan,utah,4
+elbert,colorado,4
+mineral,montana,4
+putnam,georgia,4
+greenwood,kansas,4
+washington,louisiana,4
+marion,kansas,4
+monroe,illinois,4
+piscataquis,maine,4
+sherman,kansas,4
+covington city,virginia,4
+roane,west virginia,4
+guadalupe,new mexico,4
+jasper,illinois,4
+franklin city,virginia,4
+carter,missouri,4
+kingfisher,oklahoma,4
+montgomery,arkansas,4
+montgomery,illinois,4
+rusk,texas,4
+king george,virginia,4
+montgomery,kentucky,4
+wayne,kentucky,4
+crockett,tennessee,4
+cumberland,illinois,4
+burnett,wisconsin,4
+greene,virginia,4
+knott,kentucky,4
+kossuth,iowa,4
+greene,arkansas,4
+cooper,missouri,4
+mineral,west virginia,4
+pocahontas,iowa,4
+rhea,tennessee,4
+otoe,nebraska,4
+missaukee,michigan,4
+mississippi,arkansas,4
+chambers,alabama,4
+lincoln,oklahoma,4
+montgomery,iowa,4
+tattnall,georgia,4
+pulaski,missouri,4
+greene,indiana,4
+sioux,iowa,4
+live oak,texas,4
+tate,mississippi,4
+covington,alabama,4
+page,iowa,3
+san saba,texas,3
+wrangell,alaska,3
+ozark,missouri,3
+san miguel,colorado,3
+sunflower,mississippi,3
+ray,missouri,3
+suwannee,florida,3
+palo alto,iowa,3
+york,nebraska,3
+san jacinto,texas,3
+webster,nebraska,3
+parke,indiana,3
+pulaski,illinois,3
+rush,indiana,3
+washington,texas,3
+simpson,kentucky,3
+rosebud,montana,3
+washington,indiana,3
+washington,illinois,3
+union,kentucky,3
+wasatch,utah,3
+stillwater,montana,3
+pulaski,kentucky,3
+pointe coupee,louisiana,3
+skamania,washington,3
+patrick,virginia,3
+warren,north carolina,3
+union,tennessee,3
+upshur,west virginia,3
+stewart,tennessee,3
+pondera,montana,3
+southeast fairbanks,alaska,3
+vermillion,indiana,3
+pottawatomie,kansas,3
+prentiss,mississippi,3
+rockbridge,virginia,3
+powell,montana,3
+tyler,west virginia,3
+rusk,wisconsin,3
+turner,georgia,3
+weakley,tennessee,3
+richland,montana,3
+paulding,ohio,3
+sumter,georgia,3
+winkler,texas,3
+scurry,texas,3
+saint clair,missouri,3
+pecos,texas,3
+wilson,kansas,3
+texas,oklahoma,3
+ramsey,north dakota,3
+richland,wisconsin,3
+wilkin,minnesota,3
+tift,georgia,3
+radford,virginia,3
+shannon,south dakota,3
+wexford,michigan,3
+wetzel,west virginia,3
+torrance,new mexico,3
+rio blanco,colorado,3
+pierce,georgia,3
+troup,georgia,3
+putnam,ohio,3
+pike,georgia,3
+swain,north carolina,3
+abbeville,south carolina,3
+jackson,oklahoma,3
+george,mississippi,3
+houston,minnesota,3
+gallatin,kentucky,3
+houghton,michigan,3
+bryan,georgia,3
+hot spring,arkansas,3
+garland,arkansas,3
+garrett,maryland,3
+casey,kentucky,3
+bath,kentucky,3
+giles,tennessee,3
+meade,kentucky,3
+cass,iowa,3
+martinsville city,virginia,3
+lake,michigan,3
+cass,nebraska,3
+martin,minnesota,3
+gladwin,michigan,3
+bee,texas,3
+lander,nevada,3
+glascock,georgia,3
+clay,minnesota,3
+buffalo,wisconsin,3
+jackson,texas,3
+franklin,louisiana,3
+burleson,texas,3
+mills,iowa,3
+forest,pennsylvania,3
+millard,utah,3
+metcalfe,kentucky,3
+kit carson,colorado,3
+burke,georgia,3
+franklin,indiana,3
+meriwether,georgia,3
+mercer,north dakota,3
+meade,south dakota,3
+clay,tennessee,3
+clay,south dakota,3
+baldwin,georgia,3
+menominee,michigan,3
+houston,tennessee,3
+clay,nebraska,3
+meeker,minnesota,3
+fulton,kentucky,3
+lac qui parle,minnesota,3
+gonzales,texas,3
+marquette,wisconsin,3
+mississippi,missouri,3
+charles mix,south dakota,3
+logan,west virginia,3
+logan,oklahoma,3
+logan,north dakota,3
+logan,kentucky,3
+bolivar,mississippi,3
+logan,colorado,3
+haywood,north carolina,3
+logan,arkansas,3
+grundy,iowa,3
+chicot,arkansas,3
+chippewa,michigan,3
+grundy,missouri,3
+gulf,florida,3
+lincoln,west virginia,3
+habersham,georgia,3
+hall,texas,3
+hamilton,florida,3
+hampton,south carolina,3
+hancock,kentucky,3
+chattooga,georgia,3
+louisa,iowa,3
+blackford,indiana,3
+hidalgo,new mexico,3
+madison,montana,3
+marion,kentucky,3
+benton,indiana,3
+clarendon,south carolina,3
+marion,arkansas,3
+owen,indiana,3
+mahaska,iowa,3
+magoffin,kentucky,3
+madison,virginia,3
+henry,ohio,3
+berrien,georgia,3
+leflore,mississippi,3
+grayson,virginia,3
+bertie,north carolina,3
+madison,arkansas,3
+lawrence,arkansas,3
+green,kentucky,3
+lawrence,illinois,3
+henry,alabama,3
+lee,texas,3
+greensville,virginia,3
+floyd,kentucky,3
+middlesex,virginia,3
+johnson,illinois,3
+converse,wyoming,3
+jefferson,indiana,3
+nodaway,missouri,3
+jackson,arkansas,3
+caroline,virginia,3
+alleghany,virginia,3
+allen,kansas,3
+cameron,louisiana,3
+newton,texas,3
+de baca,new mexico,3
+jennings,indiana,3
+newberry,south carolina,3
+new madrid,missouri,3
+itawamba,mississippi,3
+callahan,texas,3
+johnson,georgia,3
+nemaha,kansas,3
+coosa,alabama,3
+deer lodge,montana,3
+johnson,wyoming,3
+conway,arkansas,3
+calhoun,florida,3
+nolan,texas,3
+norman,minnesota,3
+jackson,iowa,3
+jefferson,arkansas,3
+overton,tennessee,3
+ouachita,arkansas,3
+oscoda,michigan,3
+jasper,texas,3
+crittenden,arkansas,3
+adair,kentucky,3
+custer,montana,3
+campbell,virginia,3
+custer,oklahoma,3
+oconto,wisconsin,3
+northampton,north carolina,3
+obion,tennessee,3
+dade,georgia,3
+alcona,michigan,3
+crawford,illinois,3
+nottoway,virginia,3
+camp,texas,3
+dakota,nebraska,3
+dale,alabama,3
+allamakee,iowa,3
+murray,oklahoma,3
+cherokee,kansas,3
+fayette,tennessee,3
+carroll,missouri,3
+aransas,texas,3
+archer,texas,3
+east feliciana,louisiana,3
+butler,missouri,3
+caldwell,louisiana,3
+elk,pennsylvania,3
+hyde,north carolina,3
+morgan,kentucky,3
+butts,georgia,3
+montgomery,missouri,3
+carroll,ohio,3
+fayette,iowa,3
+montgomery,indiana,3
+clinton,missouri,3
+monona,iowa,3
+duval,texas,3
+humboldt,iowa,3
+humphreys,tennessee,3
+dewitt,illinois,3
+fergus,montana,3
+fairfield,south carolina,3
+dickens,texas,3
+fentress,tennessee,3
+eureka,nevada,3
+kerr,texas,3
+huntingdon,pennsylvania,3
+monroe,mississippi,3
+caldwell,texas,3
+cleburne,alabama,3
+iowa,wisconsin,3
+columbia,arkansas,3
+hughes,south dakota,2
+shackelford,texas,2
+schleicher,texas,2
+howard,arkansas,2
+humphreys,mississippi,2
+harrison,missouri,2
+hardin,iowa,2
+sevier,arkansas,2
+howard,iowa,2
+hardeman,tennessee,2
+jackson,kansas,2
+carson,texas,2
+saline,nebraska,2
+cedar,missouri,2
+henderson,tennessee,2
+heard,georgia,2
+saluda,south carolina,2
+holmes,ohio,2
+san juan,puerto rico,2
+hockley,texas,2
+carroll,indiana,2
+iron,wisconsin,2
+hocking,ohio,2
+hughes,oklahoma,2
+scott,indiana,2
+cavalier,north dakota,2
+carroll,mississippi,2
+carroll,illinois,2
+washington,mississippi,2
+scott,mississippi,2
+scott,tennessee,2
+houston,texas,2
+washington,north carolina,2
+carbon,montana,2
+washakie,wyoming,2
+hemphill,texas,2
+carroll,tennessee,2
+zavala,texas,2
+cherry,nebraska,2
+thurston,nebraska,2
+teton,idaho,2
+dixie,florida,2
+concho,texas,2
+dodge,nebraska,2
+coke,texas,2
+edmonson,kentucky,2
+edmunds,south dakota,2
+coal,oklahoma,2
+valley,montana,2
+ellis,oklahoma,2
+talbot,georgia,2
+emmet,iowa,2
+emmons,north dakota,2
+esmeralda,nevada,2
+essex,virginia,2
+fall river,south dakota,2
+fallon,montana,2
+falls,texas,2
+vance,north carolina,2
+union,south carolina,2
+dekalb,tennessee,2
+cheyenne,nebraska,2
+cook,georgia,2
+twiggs,georgia,2
+cumberland,kentucky,2
+crockett,texas,2
+crisp,georgia,2
+crenshaw,alabama,2
+dade,missouri,2
+trigg,kentucky,2
+covington,mississippi,2
+union,illinois,2
+toombs,georgia,2
+toole,montana,2
+dawson,montana,2
+cotton,oklahoma,2
+titus,texas,2
+tishomingo,mississippi,2
+coshocton,ohio,2
+tipton,indiana,2
+union,new mexico,2
+decatur,georgia,2
+floyd,iowa,2
+floyd,virginia,2
+clearwater,idaho,2
+clear creek,colorado,2
+clarke,alabama,2
+granville,north carolina,2
+greeley,nebraska,2
+sitka,alaska,2
+greene,georgia,2
+chouteau,montana,2
+greene,iowa,2
+simpson,mississippi,2
+greenlee,arizona,2
+sierra,california,2
+shoshone,idaho,2
+gregory,south dakota,2
+chilton,alabama,2
+sherman,oregon,2
+childress,texas,2
+ward,texas,2
+guthrie,iowa,2
+shelby,missouri,2
+haakon,south dakota,2
+clarke,iowa,2
+clarke,virginia,2
+southampton,virginia,2
+garfield,montana,2
+clayton,iowa,2
+franklin,arkansas,2
+stutsman,north dakota,2
+fremont,idaho,2
+vernon,wisconsin,2
+stewart,georgia,2
+gaines,texas,2
+clay,kentucky,2
+garfield,utah,2
+golden valley,montana,2
+stephens,georgia,2
+starr,texas,2
+wabasha,minnesota,2
+gilmer,west virginia,2
+stafford,kansas,2
+wahkiakum,washington,2
+glades,florida,2
+spencer,kentucky,2
+goochland,virginia,2
+saint james,louisiana,2
+martin,north carolina,2
+mecklenburg,virginia,2
+mccook,south dakota,2
+barton,missouri,2
+barry,missouri,2
+barnes,north dakota,2
+barbour,west virginia,2
+mckenzie,north dakota,2
+potter,pennsylvania,2
+banks,georgia,2
+meagher,montana,2
+mercer,illinois,2
+pleasants,west virginia,2
+mercer,ohio,2
+merrick,nebraska,2
+polk,north carolina,2
+mifflin,pennsylvania,2
+audubon,iowa,2
+attala,mississippi,2
+pocahontas,west virginia,2
+mingo,west virginia,2
+plymouth,iowa,2
+jasper,georgia,2
+price,wisconsin,2
+beaver,utah,2
+martin,indiana,2
+llano,texas,2
+redwood,minnesota,2
+boise,idaho,2
+long,georgia,2
+blaine,oklahoma,2
+lucas,iowa,2
+luce,michigan,2
+lyon,iowa,2
+lyon,minnesota,2
+bienville,louisiana,2
+bibb,alabama,2
+macon,tennessee,2
+madison,texas,2
+bent,colorado,2
+pulaski,indiana,2
+pulaski,georgia,2
+marshall,kansas,2
+marshall,mississippi,2
+ben hill,georgia,2
+mitchell,georgia,2
+platte,wyoming,2
+linn,kansas,2
+allen,louisiana,2
+pershing,nevada,2
+perry,tennessee,2
+yalobusha,mississippi,2
+neshoba,mississippi,2
+alpine,california,2
+nevada,arkansas,2
+alpena,michigan,2
+perquimans,north carolina,2
+newton,mississippi,2
+nobles,minnesota,2
+woodruff,arkansas,2
+pemiscot,missouri,2
+north slope,alaska,2
+pawnee,kansas,2
+alfalfa,oklahoma,2
+adams,nebraska,2
+ohio,indiana,2
+orleans,vermont,2
+osage,oklahoma,2
+yuma,colorado,2
+person,north carolina,2
+anderson,kentucky,2
+andrews,texas,2
+morrow,oregon,2
+mitchell,kansas,2
+woods,oklahoma,2
+arthur,nebraska,2
+monroe,iowa,2
+pipestone,minnesota,2
+monroe,kentucky,2
+monroe,missouri,2
+worth,iowa,2
+pike,missouri,2
+montmorency,michigan,2
+pike,indiana,2
+pike,alabama,2
+moore,texas,2
+morgan,tennessee,2
+pickens,georgia,2
+pickens,alabama,2
+morrow,ohio,2
+phillips,kansas,2
+phillips,arkansas,2
+boone,west virginia,2
+crook,wyoming,2
+brooks,georgia,2
+leake,mississippi,2
+camden,north carolina,2
+lincoln,georgia,2
+lexington city,virginia,2
+breathitt,kentucky,2
+kingsbury,south dakota,2
+robertson,texas,2
+kingman,kansas,2
+jones,georgia,2
+jones,texas,2
+calhoun,arkansas,2
+juniata,pennsylvania,2
+lawrence,alabama,2
+brookings,south dakota,2
+lincoln,idaho,2
+kearny,kansas,2
+lewis,missouri,2
+lee,south carolina,2
+keya paha,nebraska,2
+wayne,nebraska,2
+lewis,kentucky,2
+lenoir,north carolina,2
+russell,alabama,2
+west carroll,louisiana,2
+king william,virginia,2
+rio grande,puerto rico,2
+west baton rouge,louisiana,2
+cross,arkansas,2
+wells,indiana,2
+washita,oklahoma,2
+saint louis city,missouri,2
+lincoln,wyoming,2
+jasper,south carolina,2
+lagrange,indiana,2
+campbell,tennessee,2
+brown,south dakota,2
+rooks,kansas,2
+lincoln,mississippi,2
+wheeler,texas,2
+la salle,louisiana,2
+burt,nebraska,2
+wheatland,montana,2
+roseau,minnesota,2
+lake,south dakota,2
+wharton,texas,2
+wayne,utah,2
+brown,kansas,2
+jefferson,kansas,2
+richland,north dakota,2
+brown,minnesota,2
+wright,iowa,1
+utuado,puerto rico,1
+butler,alabama,1
+van buren,iowa,1
+arecibo,puerto rico,1
+anson,north carolina,1
+concordia,louisiana,1
+upson,georgia,1
+coahoma,mississippi,1
+valley,nebraska,1
+upton,texas,1
+collingsworth,texas,1
+arenac,michigan,1
+columbia,washington,1
+appanoose,iowa,1
+coffey,kansas,1
+warren,illinois,1
+yakutat,alaska,1
+butler,iowa,1
+crawford,wisconsin,1
+unicoi,tennessee,1
+craig,virginia,1
+cameron,pennsylvania,1
+alexander,illinois,1
+aleutians west,alaska,1
+aleutians east,alaska,1
+canovanas,puerto rico,1
+union,florida,1
+adams,iowa,1
+tyrrell,north carolina,1
+young,texas,1
+adams,idaho,1
+adair,iowa,1
+candler,georgia,1
+craig,oklahoma,1
+yellow medicine,minnesota,1
+wyoming,west virginia,1
+wayne,illinois,1
+conejos,colorado,1
+union,south dakota,1
+butler,nebraska,1
+amite,mississippi,1
+buena vista city,virginia,1
+wayne,iowa,1
+wayne,georgia,1
+union,indiana,1
+washington,nebraska,1
+copiah,mississippi,1
+carroll,kentucky,1
+watonwan,minnesota,1
+alleghany,north carolina,1
+union,iowa,1
+arkansas,arkansas,1
+webster,mississippi,1
+washington,kansas,1
+waller,texas,1
+cimarron,oklahoma,1
+benton,minnesota,1
+clark,arkansas,1
+benson,north dakota,1
+clarke,mississippi,1
+bradley,arkansas,1
+bennett,south dakota,1
+chase,kansas,1
+charlton,georgia,1
+westmoreland,virginia,1
+wilson,texas,1
+briscoe,texas,1
+charlotte,virginia,1
+beaver,oklahoma,1
+clay,arkansas,1
+benton,tennessee,1
+wallowa,oregon,1
+wade hampton,alaska,1
+walthall,mississippi,1
+borden,texas,1
+boone,nebraska,1
+bollinger,missouri,1
+boundary,idaho,1
+bourbon,kansas,1
+bleckley,georgia,1
+chickasaw,iowa,1
+big horn,wyoming,1
+choctaw,mississippi,1
+cheyenne,colorado,1
+wilbarger,texas,1
+box butte,nebraska,1
+chesterfield,south carolina,1
+wilkinson,mississippi,1
+willacy,texas,1
+wadena,minnesota,1
+bear lake,idaho,1
+brule,south dakota,1
+baker,georgia,1
+washington,alabama,1
+webster,west virginia,1
+atoka,oklahoma,1
+vega baja,puerto rico,1
+washington,florida,1
+vega alta,puerto rico,1
+clearwater,minnesota,1
+chickasaw,mississippi,1
+catahoula,louisiana,1
+caswell,north carolina,1
+woodson,kansas,1
+atkinson,georgia,1
+webster,kentucky,1
+arroyo,puerto rico,1
+cloud,kansas,1
+baca,colorado,1
+cedar,iowa,1
+bath,virginia,1
+vernon,louisiana,1
+clay,georgia,1
+broadwater,montana,1
+wabash,illinois,1
+cedar,nebraska,1
+barranquitas,puerto rico,1
+clay,illinois,1
+clay,kansas,1
+vinton,ohio,1
+waseca,minnesota,1
+barber,kansas,1
+wirt,west virginia,1
+bamberg,south carolina,1
+wolfe,kentucky,1
+clay,north carolina,1
+ballard,kentucky,1
+cannon,tennessee,1
+owen,kentucky,1
+culberson,texas,1
+richardson,nebraska,1
+reagan,texas,1
+red river,louisiana,1
+little river,arkansas,1
+republic,kansas,1
+reynolds,missouri,1
+rice,kansas,1
+lincoln,minnesota,1
+jim hogg,texas,1
+richland,louisiana,1
+lincoln,kansas,1
+liberty,florida,1
+lewis,west virginia,1
+richmond,virginia,1
+lewis,tennessee,1
+logan,kansas,1
+rawlins,kansas,1
+love,oklahoma,1
+lowndes,alabama,1
+randolph,georgia,1
+lyman,south dakota,1
+ralls,missouri,1
+mackinac,michigan,1
+macon,georgia,1
+macon,missouri,1
+quitman,mississippi,1
+madison,louisiana,1
+madison,missouri,1
+mahnomen,minnesota,1
+marion,georgia,1
+pushmataha,oklahoma,1
+marion,south carolina,1
+rincon,puerto rico,1
+rio grande,colorado,1
+lemhi,idaho,1
+kinney,texas,1
+johnson,nebraska,1
+johnston,oklahoma,1
+judith basin,montana,1
+juncos,puerto rico,1
+karnes,texas,1
+kearney,nebraska,1
+sac,iowa,1
+sabine,texas,1
+kent,texas,1
+keokuk,iowa,1
+russell,virginia,1
+russell,kansas,1
+king and queen,virginia,1
+rush,kansas,1
+kiowa,colorado,1
+lee,virginia,1
+kiowa,oklahoma,1
+knox,nebraska,1
+lafayette,arkansas,1
+rolette,north dakota,1
+lafayette,wisconsin,1
+roger mills,oklahoma,1
+lajas,puerto rico,1
+lake,colorado,1
+lamb,texas,1
+lanier,georgia,1
+lares,puerto rico,1
+lavaca,texas,1
+roberts,texas,1
+lee,arkansas,1
+marlboro,south carolina,1
+prowers,colorado,1
+marshall,south dakota,1
+pendleton,west virginia,1
+mora,new mexico,1
+pierce,nebraska,1
+morris,texas,1
+piatt,illinois,1
+phillips,colorado,1
+morton,kansas,1
+petroleum,montana,1
+petersburg city,virginia,1
+petersburg,alaska,1
+nelson,north dakota,1
+perry,mississippi,1
+perry,alabama,1
+noble,ohio,1
+pennington,minnesota,1
+pendleton,kentucky,1
+moore,tennessee,1
+northampton,virginia,1
+northwest arctic,alaska,1
+norton,kansas,1
+norton city,virginia,1
+nowata,oklahoma,1
+noxubee,mississippi,1
+nuckolls,nebraska,1
+parmer,texas,1
+ohio,kentucky,1
+oldham,texas,1
+orange,indiana,1
+orange,virginia,1
+osage,missouri,1
+ouray,colorado,1
+pike,arkansas,1
+montour,pennsylvania,1
+prince of wales hyder,alaska,1
+poquoson city,virginia,1
+martin,kentucky,1
+prince edward,virginia,1
+mason,texas,1
+mathews,virginia,1
+mayaguez,puerto rico,1
+prairie,arkansas,1
+mccreary,kentucky,1
+poweshiek,iowa,1
+power,idaho,1
+mcdowell,west virginia,1
+mcintosh,north dakota,1
+mclean,kentucky,1
+mcmullen,texas,1
+posey,indiana,1
+pope,minnesota,1
+montgomery,georgia,1
+meigs,tennessee,1
+menominee,wisconsin,1
+ponce,puerto rico,1
+polk,nebraska,1
+miller,georgia,1
+mills,texas,1
+mineral,nevada,1
+mitchell,iowa,1
+mitchell,texas,1
+moca,puerto rico,1
+monroe,alabama,1
+monroe,arkansas,1
+monroe,georgia,1
+monroe,west virginia,1
+saint francis,arkansas,1
+jefferson davis,mississippi,1
+turner,south dakota,1
+evans,georgia,1
+sullivan,pennsylvania,1
+florence,wisconsin,1
+fisher,texas,1
+fillmore,minnesota,1
+sumter,alabama,1
+faribault,minnesota,1
+swift,minnesota,1
+jefferson,oklahoma,1
+switzerland,indiana,1
+emanuel,georgia,1
+tallahatchie,mississippi,1
+tallapoosa,alabama,1
+elliott,kentucky,1
+dunn,north dakota,1
+fluvanna,virginia,1
+sullivan,indiana,1
+franklin,alabama,1
+stonewall,texas,1
+franklin,texas,1
+stone,mississippi,1
+fremont,iowa,1
+frio,texas,1
+fulton,arkansas,1
+stevens,minnesota,1
+stevens,kansas,1
+garfield,nebraska,1
+garfield,washington,1
+steele,north dakota,1
+geneva,alabama,1
+gilchrist,florida,1
+stark,illinois,1
+drew,arkansas,1
+taylor,iowa,1
+dorchester,maryland,1
+dawes,nebraska,1
+custer,colorado,1
+tunica,mississippi,1
+custer,nebraska,1
+tucker,west virginia,1
+trujillo alto,puerto rico,1
+custer,south dakota,1
+trimble,kentucky,1
+trego,kansas,1
+traverse,minnesota,1
+dallas,alabama,1
+traill,north dakota,1
+dallas,arkansas,1
+daniels,montana,1
+davis,iowa,1
+dawson,texas,1
+taylor,wisconsin,1
+de soto,louisiana,1
+de witt,texas,1
+tippah,mississippi,1
+decatur,iowa,1
+tillman,oklahoma,1
+delaware,iowa,1
+delta,texas,1
+denali,alaska,1
+dewey,oklahoma,1
+teton,wyoming,1
+dickenson,virginia,1
+dixon,nebraska,1
+doddridge,west virginia,1
+dodge,georgia,1
+stanton,nebraska,1
+giles,virginia,1
+gilmer,georgia,1
+iberville,louisiana,1
+scott,virginia,1
+henry,kentucky,1
+henry,virginia,1
+hinsdale,colorado,1
+hodgeman,kansas,1
+schoolcraft,michigan,1
+holmes,mississippi,1
+hooker,nebraska,1
+hoonah angoon,alaska,1
+hot springs,wyoming,1
+howard,missouri,1
+sanpete,utah,1
+hutchinson,south dakota,1
+hyde,south dakota,1
+ida,iowa,1
+haywood,tennessee,1
+iowa,iowa,1
+san lorenzo,puerto rico,1
+irwin,georgia,1
+isabela,puerto rico,1
+izard,arkansas,1
+jack,texas,1
+san augustine,texas,1
+sampson,north carolina,1
+jackson,south dakota,1
+jasper,mississippi,1
+jay,indiana,1
+saint martin,louisiana,1
+jefferson,florida,1
+jefferson,georgia,1
+henderson,illinois,1
+sedgwick,colorado,1
+gilpin,colorado,1
+grimes,texas,1
+goshen,wyoming,1
+gove,kansas,1
+grady,georgia,1
+graham,kansas,1
+graham,north carolina,1
+grant,arkansas,1
+grant,louisiana,1
+grant,oklahoma,1
+grant,south dakota,1
+gray,kansas,1
+sioux,north dakota,1
+greene,north carolina,1
+sibley,minnesota,1
+sherman,texas,1
+sheridan,nebraska,1
+haskell,oklahoma,1
+sheridan,kansas,1
+grundy,tennessee,1
+guanica,puerto rico,1
+shelby,iowa,1
+haines,alaska,1
+halifax,virginia,1
+hamilton,nebraska,1
+hancock,tennessee,1
+shannon,missouri,1
+hansford,texas,1
+hardeman,texas,1
+hardin,illinois,1
+harmon,oklahoma,1
+hart,kentucky,1
+grant,minnesota,1
