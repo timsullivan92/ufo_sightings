@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 document.addEventListener("DOMContentLoaded", function () {
     // Initialize the Leaflet map
     var map = L.map('map').setView([37.7, -122.4], 5);  // Default center on West Coast
@@ -160,7 +159,7 @@ document.addEventListener("DOMContentLoaded", function () {
         endDateDropdown.value = today.toString();  // Default end year
     }
 });
-=======
+
 document.addEventListener("DOMContentLoaded", function () {
     // Initialize the Leaflet map
     var map = L.map('map').setView([37.7, -122.4], 5);  // Default center on West Coast
@@ -322,4 +321,3 @@ document.addEventListener("DOMContentLoaded", function () {
         endDateDropdown.value = today.toString();  // Default end year
     }
 });
->>>>>>> Stashed changes
