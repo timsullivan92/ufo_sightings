@@ -49,7 +49,7 @@ function populateDateSelectors() {
 
   // Set default dates
   document.getElementById('startYear').value = "1940";
-  document.getElementById('endYear').value = "2024";
+  document.getElementById('endYear').value = "1955";
   document.getElementById('startMonth').value = "1";
   document.getElementById('endMonth').value = "12";
   document.getElementById('startDay').value = "1";
