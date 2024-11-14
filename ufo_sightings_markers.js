@@ -73,7 +73,7 @@ function populateSelect(elementId, values) {
 }
 
 // Load the CSV data using D3
-d3.csv("Data/ufo_sighting_data2.csv").then(function(data) {
+d3.csv("Data/ufo_sighting_data.csv").then(function(data) {
   // Parse dates in the data
   data.forEach(d => {
       d.parsed_date = new Date(d.Date_time);
