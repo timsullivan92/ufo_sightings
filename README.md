@@ -24,6 +24,7 @@ This project visualizes UFO sightings data on an interactive web map. The data i
 ## Project Structure
 The main folders and files in this project are organized as follows:
 
+```plaintext
 ├── Data/
 │   ├── cleanedcounties.csv
 │   ├── cleanedsightings.csv
@@ -41,7 +42,7 @@ The main folders and files in this project are organized as follows:
 ├── ufo_markers.js
 ├── ufo_sightings_markers.js
 └── ufo-heat-map.html
-
+```
 
 ## File Descriptions
 **Data/**
