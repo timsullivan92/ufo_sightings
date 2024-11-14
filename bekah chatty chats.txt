@@ -1,0 +1,15 @@
+bekah's portion of the chatty chats:
+
+hello everyone!
+
+I'm going to discuss the datasets we used for our project. We had two main data sources: 
+	The ufo sightings file was procured by The National UFO Reporting Center, and contains over 60,000 records of UFO sightings in the US, dating back as far as 1949.
+	We also used a dataset of US Counties by city, so we could produce maps which could drill down to sightings by county.
+
+	In terms of cleaning the data: The original dataset included sightings from all over the world, and included about 80,000 records. We reduced that initial data source down to only the US data, which still contained almost 64,000 records. 
+
+	We cleaned up the date and time information. HTML character entities had been created as placeholders for some punctuations in the UFO sighting descriptions, so we replaced those with the proper punctuation. We also cleaned up some of the city information, some of which included parentheses with additional location information, such as "outside of" or "east of". We then merged the city names to a list of every city in the US with its county, meaning we could add the county information to our interactive maps, which you'll see in a minute.
+
+	For the county information, we originally planned to use an API call from Geoapify, as every UFO sighting event included latitude and longitude information. On researching, we discovered that this API call would need to be run in several smaller chunks, and would take something like 6-8 hours under the best circumstances. Upon discussing with the instructor, Anish recommended merging the data source I mentioned a minute ago, which contains all the US cities and their counties, so we pivoted to that method.
+
+	We also wanted to use a geojson file containing the polygon coordinates for special use airspace, meaning the military airspace. However, we were not able to convert those data into the mongo database where we housed the other information. Given additional time, we had some fun ideas of additional data to overlay onto our maps.
