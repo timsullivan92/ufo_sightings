@@ -4,7 +4,7 @@ This project visualizes UFO sightings data on an interactive web map. The data i
 ## Project Team 
 - Jordan Goodrick
 - Cameron Pond
-- Rebekah R
+- Rebekah Roehl
 - Tim Sullivan
 - Hana Wasif
 
