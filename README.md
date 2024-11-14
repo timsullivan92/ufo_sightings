@@ -8,7 +8,7 @@ A lot of my files are too large to push to my branch. As such, I will take accou
 3. cleanedsightings.csv
     - The result of my cleaning.
 4. nullsforrebekah.csv
-    - If we had the time to be thorough, Rebekah and I would have made calls to Reverse Geocoding API to the original coordinates with no city/state in ufo_sighting_data.csv for their counties.
+    - None of the nulls were in the U.S.; other wise, Rebekah and I would have made calls to Reverse Geocoding API to the original coordinates with no city/state in ufo_sighting_data.csv for their counties.
 5. us_cities_states_counties.csv
     - The set is from grammakov, a user on GitHub. The instructor was able to find it.
 6. cleanedcounties.ipynb
