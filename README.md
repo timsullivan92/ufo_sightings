@@ -69,5 +69,6 @@ The main folders and files in this project are organized as follows:
 - .gitignore: Specifies files and folders to be ignored by Git.
 - README.md: Project documentation (you are here).
 - style.css: Contains custom CSS for styling the web pages.
+
 **Outside Sources**
 - https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js: Utilized an example on this website to load data from our dataset into our Javascript application. 
