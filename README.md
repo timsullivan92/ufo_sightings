@@ -23,23 +23,24 @@ This project visualizes UFO sightings data on an interactive web map. The data i
 ## Project Structure
 The main folders and files in this project are organized as follows:
 
-├── Data/
-│   ├── cleanedcounties.csv
-│   ├── cleanedsightings.csv
-│   ├── merge.csv
-│   ├── nullsforrebekah.csv
-│   ├── Special_Use_Airspace.csv
-│   ├── Special_Use_Airspace.geojson
-│   ├── ufo_sighting_data.csv
-│   └── us_cities_states_counties.csv
-├── .gitignore
-├── index.html
-├── README.md
-├── style.css
-├── ufo_heatmap.js
-├── ufo_markers.js
-├── ufo_sightings_markers.js
-└── ufo-heat-map.html
+Data/
+    - cleanedcounties.csv
+    - cleanedsightings.csv
+    - merge.csv
+    - nullsforrebekah.csv
+    - Special_Use_Airspace.csv
+    - Special_Use_Airspace.geojson
+    - ufo_sighting_data.csv
+    - us_cities_states_counties.csv
+
+.gitignore
+index.html
+README.md
+style.css
+ufo_heatmap.js
+ufo_markers.js
+ufo_sightings_markers.js
+ufo-heat-map.html
 
 
 ## File Descriptions
