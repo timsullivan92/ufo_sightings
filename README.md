@@ -11,6 +11,7 @@ This project visualizes UFO sightings data on an interactive web map. The data i
 ## Data Sources 
 
 *The National UFO Reporting Center*: [National UFO Reporting Center](https://nuforc.org/)
+
 *US Counties by City*:  cleanedcounties.csv
 
 ## Libraries Used 
