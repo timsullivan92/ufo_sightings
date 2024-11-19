@@ -1,6 +1,5 @@
-# ufo_sightings
-Project 3 - UFO Sighting visualizations
-A lot of my files are too large to push to my branch. As such, I will take account of all of my files in my README.md.
+# all commits to my branch
+A lot of my files are too large to push to my branch; and a lot of files are in my branch, no more. As such, I will take account of all of my files in my README.md.
 1. ufo_sighting_data.csv
     - The set is from Kaggle, though the actual data is from nuforc.org. Cameron found it.
 2. cleanedsightings.ipynb
