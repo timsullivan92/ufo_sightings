@@ -70,11 +70,13 @@ The main folders and files in this project are organized as follows:
   - Note: To view both choropleth map visualizations when accessing cloropleth.html, follow instructions in highlighted note above in this "HTML Files" section.
 
 **JavaScript Files**
+"main" Branch
 - ufo_heatmap.js: Script to render UFO sighting data as a heat map. Uses ufo_sighting_data.csv for data points.
 - ufo_markers.js: Script for rendering UFO sightings as markers on the map.
 - ufo_sightings_markers.js: Additional script for marker-specific functionalities on UFO sightings data.
 
 **Jupyter Notebooks**
+"hana" Branch
 - yesoutliers.ipynb: Script to render UFO sighting outliers above upper bound as a choropleth map. Uses chloropleth.geojson for data points.
   - Note: choropleth.geojson, unzipped or zipped, are too large to push to the repository with GitHub LFS. As such, we are providing instructions to acquire that file: (1) Follow the steps in the highlighted note above under the "Data Sources" section, and (2) run the cells in choropleth.ipynb.
 - nooutliers.ipynb: Script to render UFO sightings <em>except</em> outliers above upper bound as a choropleth map. Uses chloropleth.geojson for data points.
