@@ -6,8 +6,11 @@ Note: 1 file no longer is in my branch; 3 files were too large to push to my bra
     - The file in which I cleaned ufo_sighting_data.csv.
 3. cleanedsightings.csv
     - The result of my cleaning.
+
 **4. nullsforrebekah.csv**
+   
     - None of the nulls were in the U.S.; other wise, Rebekah and I would have made calls to Reverse Geocoding API to the original coordinates with no city/state in ufo_sighting_data.csv for their counties.
+    
     **- This file no long is in my branch.**
 5. us_cities_states_counties.csv
     - The set is from grammakov, a user on GitHub. The instructor was able to find it.
@@ -25,6 +28,7 @@ Note: 1 file no longer is in my branch; 3 files were too large to push to my bra
     - Where I saved my dataframe.
 
 <mark>12. US_County_Boundaries.geojson<mark>
+   
     - The set is from Conservation.gov. I found it.
     
     - <mark>This file, unzipped or zipped, is too large to push to the repository with GitHub LFS. As such, I am providing a link which you may consult if you wish to download it for your own use: https://www.conservation.gov/datasets/17b89622df5643cda5339ae6649247a6_0/about .</mark>
@@ -32,6 +36,7 @@ Note: 1 file no longer is in my branch; 3 files were too large to push to my bra
     - I cleaned US_County_Boundaries.geojson.
 
 <mark>14. cleanedgeodata.geojson</mark>
+    
     - The result of my cleaning.
     
     <mark>- This file, unzipped or zipped, is too large to push to the repository with GitHub LFS. it may be acquired by following the subsequent steps -- (1) adding US_County_Boundaries.geojson to the "Data" folder in my branch in the repository on your computer and (2) running the cells in cleanedgeodata.ipynb.</mark>
@@ -39,6 +44,7 @@ Note: 1 file no longer is in my branch; 3 files were too large to push to my bra
     - I merged cleanedgeodata.geojson with countiescounted.csv for only boundaries which we needed.
 
 <mark>16. choropleth.geojson</mark>
+    
     - The result of my merging.
     
     <mark>- This file, unzipped or zipped, is too large to push to the repository with GitHub LFS. As such, I am providing instructions to acquire it: (1) Follow the highlighted steps above in the order in which they appear; (2) then, run the cells in choropleth.ipynb.</mark>
@@ -46,6 +52,7 @@ Note: 1 file no longer is in my branch; 3 files were too large to push to my bra
     - I was torn between (1) using the original sightings and the variation in the lower values getting lost and (2) using the logarithim of the sightings and the higher outliers getting lost, so I opted for 2 maps. One with the outliers above the upper bounds of the data (which I calculated with quartiles), and another with all else.
 
 **19. nooutliers.html.gz/nooutliers.html and yesoutliers.html**
+    
     - Where I saved the maps.
     
     **- To access nooutliers.html, open Terminal in the repository, and run the command "gunzip -k nooutliers.html.gz". After doing so, nooutliers.html should appear in the repository on your computer, and the map may be viewed through that file or chloropleth.html.**
