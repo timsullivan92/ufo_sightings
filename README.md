@@ -86,4 +86,7 @@ The main folders and files in this project are organized as follows:
 - style.css: Contains custom CSS for styling the web pages.
 
 **Outside Sources**
-- https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js: Utilized an example on this website to load data from our dataset into our Javascript application. 
+- https://www.tutorialsteacher.com/d3js/loading-data-from-file-in-d3js: Utilized an example on this website to load data from our dataset into our Javascript application.
+- Documentation for Folium
+- Tutoring Sessions
+- Xpert
