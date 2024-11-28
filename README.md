@@ -60,7 +60,6 @@ The main folders and files in this project are organized as follows:
 
 **HTML Files**
 - index.html: Main entry point for the web application. Loads the map and initializes data visualization.
-  - Note: To view both choropleth map visualizations after clicking "UFO Chloropleth Map" button, follow instructions in highlighted note below in this "HTML Files" section.
 - ufo-heat-map.html: HTML page specifically for the UFO sightings heat map visualization.
 - ufo_markers.html:  HTML page specifically for the UFO sightings marker map visualization.
 - yesoutliers.html: HTML page specifically for the UFO sightings' outliers above upper bound, choropleth map visualization
