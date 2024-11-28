@@ -32,7 +32,8 @@ A lot of my files are too large to push to my branch; and a lot of files are in 
     - I merged cleanedgeodata.geojson with countiescounted.csv for only boundaries which we needed.
 16. nooutliers.ipynb and yesoutliers.ipynb
     - I was torn between (1) using the original sightings and the variation in the lower values getting lost and (2) using the logarithim of the sightings and the higher outliers getting lost, so I opted for 2 maps. One with the outliers above the upper bounds of the data (which I calculated with quartiles), and another with all else.
-17. nooutliers.html and yesoutliers.html
+17. nooutliers.html.gz/nooutliers.html and yesoutliers.html
     - Where I saved the maps.
+    - To access nooutliers.html, open Terminal in the repository, and run the command "gunzip -k nooutliers.html.gz". After doing so, nooutliers.html should appear in the repository on your computer, and the map may be viewed through that file or chloropleth.html. 
 18. chloropleth.html
     - Both maps in one screen.
