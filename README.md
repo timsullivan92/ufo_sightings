@@ -41,6 +41,6 @@ Note: 1 file no longer is in my branch; 3 files were too large to push to my bra
 **19. nooutliers.html.gz/nooutliers.html and yesoutliers.html**
     - Where I saved the maps.
     **- To access nooutliers.html, open Terminal in the repository, and run the command "gunzip -k nooutliers.html.gz". After doing so, nooutliers.html should appear in the repository on your computer, and the map may be viewed through that file or chloropleth.html.**
-##20. chloropleth.html
-    ##- Both maps in one screen.
-    ##- To view both choropleth map visualizations when accessing cloropleth.html, follow the bolded instructions above under **19.**.
+## 20. chloropleth.html
+    ## - Both maps in one screen.
+    ## - To view both choropleth map visualizations when accessing cloropleth.html, follow the bolded instructions above under **19.**.
