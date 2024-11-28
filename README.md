@@ -1,5 +1,5 @@
 # Commits in Chronological Order
-Note: 1 file no longer is in my branch; 3 files were too large to push to my branch; and 1 file is zipped in my branch. As such, I am taking account of all of my files in my README.md.
+Note: **1 file no longer is in my branch**; <mark>3 files were too large to push to my branch</mark>; and **1 file is zipped in my branch**. As such, I am taking account of all of my files in my README.md.
 1. ufo_sighting_data.csv
     - The set is from Kaggle, though the actual data is from nuforc.org. Cameron found it.
 2. cleanedsightings.ipynb
