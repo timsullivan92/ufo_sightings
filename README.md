@@ -6,7 +6,7 @@ This project visualizes UFO sightings data on an interactive web map. The data i
 - Cameron Pond
 - Rebekah Roehl
 - Tim Sullivan
-- Hana Wasif
+- Hana W.
 
 ## Data Sources 
 
